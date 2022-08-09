@@ -113,7 +113,7 @@ public class Time implements Classificacao {
         System.out.println(" Hoje tem jogão de BOla no Estadio da Bananeiras ");
         System.out.println(" Primeiro Jogo temos " + this.getNome() + "\n Com " + 
                 this.getVitorias() + " vitorias " + this.getEmpates()+" empates "+
-                this.getDerrotas() + " derrotas ");
+                this.getDerrotas() + " derrotas " +"Nesse momento ele esta na " + this.getPosicaoAtual() + " posiçao." );
     }
       
             
